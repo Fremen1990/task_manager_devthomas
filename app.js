@@ -24,7 +24,7 @@ const start = async () => {
     }
 }
 
-//todo add login from firebase or from session cook=ie
+//todo add login from firebase
 
 start();
 
